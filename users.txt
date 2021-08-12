@@ -1,0 +1,7 @@
+admin
+local
+root
+tester
+user
+remote
+default
